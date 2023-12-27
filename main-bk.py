@@ -889,9 +889,9 @@ def hello_world():
 #         # saving the dataframe
 #         df.to_csv('yahoo_gainers1.csv')
 #         # Fill Required Information
-#         HOSTNAME = "74.208.51.69"
-#         USERNAME = "stockftpusr"
-#         PASSWORD = "T11wz8w_"
+#         HOSTNAME = "HOSTNAME"
+#         USERNAME = "USERNAME"
+#         PASSWORD = "PASSWORD"
 #         #Connect FTP Server
 #         ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #         #ftp_server.login()
@@ -1003,9 +1003,9 @@ def hello_world():
 #     #   # saving the dataframe
 #     #   df.to_csv('yahoo_gainers1.csv')
 #     #   # Fill Required Information
-#     #   HOSTNAME = "74.208.51.69"
-#     #   USERNAME = "stockftpusr"
-#     #   PASSWORD = "T11wz8w_"
+#     #   HOSTNAME = "HOSTNAME"
+#     #   USERNAME = "USERNAME"
+#     #   PASSWORD = "PASSWORD"
 #     #   #Connect FTP Server
 #     #   ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #     #   #ftp_server.login()
@@ -1122,9 +1122,9 @@ def hello_world():
 #       #url = 'https://finance.yahoo.com/gainers?count=100&offset=0'
 #       #headers = {'User-Agent': ua.random } # =use only for post
 #       # Fill Required Information
-#       HOSTNAME = "74.208.51.69"
-#       USERNAME = "stockftpusr"
-#       PASSWORD = "T11wz8w_"
+#       HOSTNAME = "HOSTNAME"
+#       USERNAME = "USERNAME"
+#       PASSWORD = "PASSWORD"
 #       #Connect FTP Server
 #       ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #       #ftp_server.login()
@@ -1302,9 +1302,9 @@ def hello_world():
 #         # saving the dataframe
 #         df.to_csv('yahoo_losers1.csv')
 #         # Fill Required Information
-#         HOSTNAME = "74.208.51.69"
-#         USERNAME = "stockftpusr"
-#         PASSWORD = "T11wz8w_"
+#         HOSTNAME = "HOSTNAME"
+#         USERNAME = "USERNAME"
+#         PASSWORD = "PASSWORD"
 #         #Connect FTP Server
 #         ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #         #ftp_server.login()
@@ -1486,9 +1486,9 @@ def hello_world():
 #         # saving the dataframe
 #         df.to_csv('yahoo_most_active1.csv')
 #         # Fill Required Information
-#         HOSTNAME = "74.208.51.69"
-#         USERNAME = "stockftpusr"
-#         PASSWORD = "T11wz8w_"
+#         HOSTNAME = "HOSTNAME"
+#         USERNAME = "USERNAME"
+#         PASSWORD = "PASSWORD"
 #         #Connect FTP Server
 #         ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #         #ftp_server.login()
@@ -1667,9 +1667,9 @@ def hello_world():
 #         # saving the dataframe
 #         df.to_csv('yahoo_trending1.csv')
 #         # Fill Required Information
-#         HOSTNAME = "74.208.51.69"
-#         USERNAME = "stockftpusr"
-#         PASSWORD = "T11wz8w_"
+#         HOSTNAME = "HOSTNAME"
+#         USERNAME = "USERNAME"
+#         PASSWORD = "PASSWORD"
 #         #Connect FTP Server
 #         ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #         #ftp_server.login()
@@ -1829,9 +1829,9 @@ def nasdaqc():
         # saving the dataframe
         df.to_csv('yahoo_nasdaq_current.csv')
         # Fill Required Information
-        HOSTNAME = "74.208.51.69"
-        USERNAME = "stockftpusr"
-        PASSWORD = "T11wz8w_"
+        HOSTNAME = "HOSTNAME"
+        USERNAME = "USERNAME"
+        PASSWORD = "PASSWORD"
         #Connect FTP Server
         ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
         #ftp_server.login()
@@ -1981,9 +1981,9 @@ def nasdaqfuture():
         df.to_csv('yahoo_nasdaq_future.csv')
         #print(user_agent)
         # Fill Required Information
-        HOSTNAME = "74.208.51.69"
-        USERNAME = "stockftpusr"
-        PASSWORD = "T11wz8w_"
+        HOSTNAME = "HOSTNAME"
+        USERNAME = "USERNAME"
+        PASSWORD = "PASSWORD"
         #Connect FTP Server
         ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
         #ftp_server.login()
@@ -2202,9 +2202,9 @@ user_agent_nasdaq = [
 #     #html = requests.get(url).content
 #       print('200')
 #       # Fill Required Information
-#       HOSTNAME = "74.208.51.69"
-#       USERNAME = "stockftpusr"
-#       PASSWORD = "T11wz8w_"
+#       HOSTNAME = "HOSTNAME"
+#       USERNAME = "USERNAME"
+#       PASSWORD = "PASSWORD"
 #       #Connect FTP Server
 #       ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #       #ftp_server.login()
@@ -2326,9 +2326,9 @@ user_agent_nasdaq = [
 #         'previousClose'] or np.nan
 #     df.to_csv('data300.csv')
 #     # Fill Required Information
-#     HOSTNAME = "74.208.51.69"
-#     USERNAME = "stockftpusr"
-#     PASSWORD = "T11wz8w_"
+#     HOSTNAME = "HOSTNAME"
+#     USERNAME = "USERNAME"
+#     PASSWORD = "PASSWORD"
 #     #Connect FTP Server
 #     ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #     #ftp_server.login()
@@ -2414,9 +2414,9 @@ user_agent_nasdaq = [
 #         'previousClose'] or np.nan
 #     df.to_csv('data600.csv')
 #     # Fill Required Information
-#     HOSTNAME = "74.208.51.69"
-#     USERNAME = "stockftpusr"
-#     PASSWORD = "T11wz8w_"
+#     HOSTNAME = "HOSTNAME"
+#     USERNAME = "USERNAME"
+#     PASSWORD = "PASSWORD"
 #     #Connect FTP Server
 #     ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #     #ftp_server.login()
@@ -2500,9 +2500,9 @@ user_agent_nasdaq = [
 #         'previousClose'] or np.nan
 #     df.to_csv('data1002.csv')
 #     # Fill Required Information
-#     HOSTNAME = "74.208.51.69"
-#     USERNAME = "stockftpusr"
-#     PASSWORD = "T11wz8w_"
+#     HOSTNAME = "HOSTNAME"
+#     USERNAME = "USERNAME"
+#     PASSWORD = "PASSWORD"
 #     #Connect FTP Server
 #     ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #     #ftp_server.login()
@@ -2630,9 +2630,9 @@ user_agent_nasdaq = [
 #         csv_input.to_csv('stocks2.csv', index=False)
 #         print('200')
 #         # Fill Required Information
-#         HOSTNAME = "74.208.51.69"
-#         USERNAME = "stockftpusr"
-#         PASSWORD = "T11wz8w_"
+#         HOSTNAME = "hostname"
+#         USERNAME = "USERNAME"
+#         PASSWORD = "PASSWORD"
 #         #Connect FTP Server
 #         ftp_server = ftplib.FTP(HOSTNAME, USERNAME, PASSWORD)
 #         #ftp_server.login()
